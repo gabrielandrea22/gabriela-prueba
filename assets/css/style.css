@@ -1,0 +1,23 @@
+body{
+	font-style: 
+}
+header{
+	background-image: url(../img/bg_hero.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: left;
+	padding-bottom: 10rem;
+}
+
+#work{
+	background-color: #572364;
+}
+nav.navbar {
+    background-color: #572364;
+}
+.contacto{
+	background-color: #572364;
+}
+a{
+	color: white;
+}
