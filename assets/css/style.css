@@ -1,6 +1,13 @@
 body{
-	font-style: 
+	font-family: "open sans", sans-serif; 
 }
+h1{
+	font-weight: 700;
+}
+h2{
+	font-weight: 400;
+}
+
 header{
 	background-image: url(../img/bg_hero.png);
 	background-repeat: no-repeat;
@@ -9,15 +16,20 @@ header{
 	padding-bottom: 10rem;
 }
 
-#work{
+#trabajos{
 	background-color: #572364;
 }
 nav.navbar {
     background-color: #572364;
 }
-.contacto{
+.morado{
 	background-color: #572364;
 }
 a{
 	color: white;
+}
+
+.modal-content img{
+width: 90%;
+height: 50%;
 }
